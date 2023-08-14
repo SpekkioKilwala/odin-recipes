@@ -5,3 +5,7 @@ https://www.theodinproject.com/lessons/foundations-recipes
 The goal is to make a simple (as in, really simple) website
 that theoretically hosts a few recipes on different pages.
 
+Then updated for:
+https://www.theodinproject.com/lessons/foundations-the-cascade
+14-08-23
+added CSS

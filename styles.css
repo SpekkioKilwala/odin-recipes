@@ -1,0 +1,13 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:ivory;
+}
+
+.intro {
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+li {
+    font-weight: 700;
+}
