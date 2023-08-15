@@ -1,11 +1,30 @@
 * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color:ivory;
+    margin: 0.5rem;
 }
 
 .intro {
     font-family:'Courier New', Courier, monospace;
     font-style: italic;
+}
+
+.page.header {
+    background-color: rgb(67, 77, 221);
+}
+
+.header{
+    background-color: rgb(221, 185, 67);
+    width: fit-content;
+    padding: 0.5em 1em 0.5em 3em;
+    border-radius: 0.5em;
+    border: 1px solid #444444;
+}
+
+.content,
+.desc {
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
 }
 
 li {
